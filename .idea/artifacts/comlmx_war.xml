@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="comlmx:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="com.lmx.war">
+      <element id="artifact" artifact-name="comlmx:war exploded" />
+    </root>
+  </artifact>
+</component>
